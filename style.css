@@ -1,0 +1,41 @@
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: arial;
+  padding: 10px 20px;
+}
+
+h1 {
+  border-bottom: solid 3px red;
+}
+
+.inline_pic {
+  display: flex;
+}
+
+img {
+  margin-right: 20px;
+}
+
+.narrative {
+  color: DarkBlue;
+}
+
+#first {
+  margin: 0px;
+}
+
+.highlight {
+  text-align: center;
+  color: red;
+  background: #BFE9F5;
+  border: 2px solid blue;
+  padding: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
